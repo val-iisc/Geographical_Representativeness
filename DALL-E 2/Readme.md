@@ -1,0 +1,1 @@
+Country-agnostic images
